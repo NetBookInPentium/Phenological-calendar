@@ -1,0 +1,20 @@
+﻿@page "/counter"
+@rendermode InteractiveServer
+
+<PageTitle>Вычисления</PageTitle>
+
+<h3>Провести расчёты</h3>
+<h4>Здесь вы можете рассчитать стадии вегетации</h4>
+
+<p role="status">Current count: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Рассчитать</button>
+
+@code {
+    private int currentCount = 0;
+
+    private void IncrementCount()
+    {
+        currentCount++;
+    }
+}
