@@ -58,3 +58,49 @@ h1:focus {
 .darker-border-checkbox.form-check-input {
     border-color: #929292 /*÷вет подсветки кнопки при наведении курсора мышки */
 }
+d7 {
+    align-items: center;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    background: #7BA7AB;
+}
+
+.d7:after {
+    content: "";
+    clear: both;
+    display: table
+}
+
+.d7 form {
+    width: auto;
+    float: left;
+    margin-right: 50%;
+}
+
+.d7 input {
+    width: 500px;
+    height: 46px;
+    padding-left: 15px;
+    border-radius: 42px;
+    border: 2px solid #324b4e;
+    background: #F0FFF0;
+    outline: none;
+    position: relative;
+}
+
+.d7 button {
+    width: 42px;
+    height: 42px;
+    background: none;
+    border: none;
+    position: absolute;
+    top: -2px;
+    right: 0;
+}
+
+    .d7 button:before {
+        content: "\f002";
+        font-family: FontAwesome;
+        color: #324b4e;
+    }

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar.csproj",
+      "projectUniqueName": "D:\\CSharp\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar.csproj",
       "projectName": "Phenological-calendar",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar.csproj",
+      "projectPath": "D:\\CSharp\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\Phenological-calendar\\Phenological-calendar\\obj\\",
+      "outputPath": "D:\\CSharp\\Phenological-calendar\\Phenological-calendar\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
