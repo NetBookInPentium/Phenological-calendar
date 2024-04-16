@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Phenological-calendar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d583feb35de526f3ffe80d1a051075b14231c521")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0f6499b90bce1429d15e53a398c19af6651fa648")]
 [assembly: System.Reflection.AssemblyProductAttribute("Phenological-calendar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Phenological-calendar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

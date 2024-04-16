@@ -1,0 +1,73 @@
+﻿@page "/contacts"
+@attribute [StreamRendering]
+
+<PageTitle>Контакты</PageTitle>
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #f4f4f4;
+    }
+
+    .container {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        flex-wrap: wrap;
+        padding: 20px;
+    }
+
+    .card {
+        width: calc(25% - 40px);
+        background-color: #fff;
+        border: 1px solid #ccc;
+        border-radius: 5px;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        margin: 20px;
+        padding: 50px;
+        box-sizing: border-box;
+        text-align: center;
+    }
+
+        .card h2 {
+            color: #333;
+        }
+
+        .card p {
+            color: #666;
+        }
+    .position{
+        
+        text-align: center;
+    }
+</style>
+
+<div class ="position">
+    <h1> Контактная информация</h1>
+
+    <p>Личная карточка разработчика</p>
+</div>
+
+
+<body>
+    <div class="container">
+        <div class="card">
+            <h2>Гильманов Ильдар</h2>
+            <p>Автор оригинальной идеи</p>
+        </div>
+        <div class="card">
+            <h2>Давыдов Игорь</h2>
+            <p>Основной разработчик front-end части</p>
+        </div>
+        <div class="card">
+            <h2>Фролов Александр</h2>
+            <p>Основной разработчик back-end части</p>
+        </div>
+        <div class="card">
+            <h2>Муравьев Максим</h2>
+            <p>Менеджер поддержки проекта</p>
+        </div>
+    </div>
+</body>
