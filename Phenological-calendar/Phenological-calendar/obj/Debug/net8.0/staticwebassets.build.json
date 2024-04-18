@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "oH/+W1Z0S1NWkINZ7uZyN4UuhxLCTxQwPf4SMlxz9ks=",
+  "Hash": "xYsLkGoHxaR9s3yDACd/+huoT7XPIjvyXuaSgcz+GH8=",
   "Source": "Phenological-calendar",
   "BasePath": "_content/Phenological-calendar",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Phenological-calendar\\wwwroot",
       "Source": "Phenological-calendar",
-      "ContentRoot": "D:\\CSharp\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\wwwroot\\",
+      "ContentRoot": "D:\\Susny\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\wwwroot\\",
       "BasePath": "_content/Phenological-calendar",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "D:\\CSharp\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Phenological-calendar.styles.css",
+      "Identity": "D:\\Susny\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Phenological-calendar.styles.css",
       "SourceId": "Phenological-calendar",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\CSharp\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "D:\\Susny\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Phenological-calendar",
       "RelativePath": "Phenological-calendar.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\CSharp\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Phenological-calendar.styles.css"
+      "OriginalItemSpec": "D:\\Susny\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\obj\\Debug\\net8.0\\scopedcss\\bundle\\Phenological-calendar.styles.css"
     },
     {
-      "Identity": "D:\\CSharp\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Phenological-calendar.bundle.scp.css",
+      "Identity": "D:\\Susny\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Phenological-calendar.bundle.scp.css",
       "SourceId": "Phenological-calendar",
       "SourceType": "Computed",
-      "ContentRoot": "D:\\CSharp\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "D:\\Susny\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Phenological-calendar",
       "RelativePath": "Phenological-calendar.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\CSharp\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Phenological-calendar.bundle.scp.css"
+      "OriginalItemSpec": "D:\\Susny\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Phenological-calendar.bundle.scp.css"
     },
     {
-      "Identity": "D:\\CSharp\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\wwwroot\\app.css",
+      "Identity": "D:\\Susny\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\wwwroot\\app.css",
       "SourceId": "Phenological-calendar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\wwwroot\\",
+      "ContentRoot": "D:\\Susny\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\wwwroot\\",
       "BasePath": "_content/Phenological-calendar",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "D:\\CSharp\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "D:\\Susny\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "Phenological-calendar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\wwwroot\\",
+      "ContentRoot": "D:\\Susny\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\wwwroot\\",
       "BasePath": "_content/Phenological-calendar",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "D:\\CSharp\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "D:\\Susny\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "Phenological-calendar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\wwwroot\\",
+      "ContentRoot": "D:\\Susny\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\wwwroot\\",
       "BasePath": "_content/Phenological-calendar",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\CSharp\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\wwwroot\\favicon.png",
+      "Identity": "D:\\Susny\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\wwwroot\\favicon.png",
       "SourceId": "Phenological-calendar",
       "SourceType": "Discovered",
-      "ContentRoot": "D:\\CSharp\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\wwwroot\\",
+      "ContentRoot": "D:\\Susny\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\wwwroot\\",
       "BasePath": "_content/Phenological-calendar",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

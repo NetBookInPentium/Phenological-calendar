@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CSharp\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar.csproj": {}
+    "D:\\Susny\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar.csproj": {}
   },
   "projects": {
-    "D:\\CSharp\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar.csproj": {
+    "D:\\Susny\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CSharp\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar.csproj",
+        "projectUniqueName": "D:\\Susny\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar.csproj",
         "projectName": "Phenological-calendar",
-        "projectPath": "D:\\CSharp\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\CSharp\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\obj\\",
+        "projectPath": "D:\\Susny\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar.csproj",
+        "packagesPath": "C:\\Users\\alix2\\.nuget\\packages\\",
+        "outputPath": "D:\\Susny\\Phenological-calendar\\Phenological-calendar\\Phenological-calendar\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "D:\\ProgramF\\VS_SDK\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\alix2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,11 +39,22 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -62,7 +74,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

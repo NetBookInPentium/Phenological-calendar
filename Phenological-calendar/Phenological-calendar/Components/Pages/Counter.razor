@@ -23,10 +23,19 @@
 <button class="btn btn-primary" @onclick="IncrementCount">Рассчитать</button>
 
 @code {
-    private int currentCount = 0;
+    Phenologicalcalendar.Call_DB Call_db = new Phenologicalcalendar.Call_DB();
+    private string currentCount = "иди нахуй";
+
 
     private void IncrementCount()
     {
-        currentCount++;
+        currentCount = Call_db.Test("SELECT * FROM testdb.testes");
+
+        List<string> strings = Call_db.Test_list("SELECT * FROM testdb.testes");
+        for(int i = 0; i < strings.Count; i++)
+        {
+            Console.WriteLine(i + " элемент = " + strings[i]);
+        }
+
     }
 }
